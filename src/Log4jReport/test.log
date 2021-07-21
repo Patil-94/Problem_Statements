@@ -1,0 +1,92 @@
+[INFO ] 2021-07-20 14:32:10.801 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 14:32:23.082 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 14:32:53.910 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 14:33:03.314 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 14:33:45.242 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 14:33:46.932 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 14:33:47.675 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 14:34:29.061 [Test worker] LogClass - Clicking on profile button
+[INFO ] 2021-07-20 14:34:29.686 [Test worker] LogClass - Clicking on sign out
+[INFO ] 2021-07-20 14:34:33.977 [Test worker] LogClass - logoutPage:take failed screenshot 
+[INFO ] 2021-07-20 14:34:49.574 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 14:34:51.345 [Test worker] LogClass - Test is ended
+[INFO ] 2021-07-20 14:37:43.851 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 14:37:45.127 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 14:37:53.948 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 14:38:05.931 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 14:38:30.036 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 14:38:30.998 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 14:38:31.614 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 14:39:01.930 [Test worker] LogClass - loginTo_Application_with_valid_credentials:take success screenshot
+[INFO ] 2021-07-20 14:39:17.237 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 14:39:19.227 [Test worker] LogClass - Test is ended
+[INFO ] 2021-07-20 14:55:27.199 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 14:55:28.828 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 14:55:51.821 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 14:55:56.678 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 14:56:30.327 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 14:56:31.076 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 14:56:32.810 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 14:57:03.907 [Test worker] LogClass - loginTo_Application_with_valid_credentials:take success screenshot
+[INFO ] 2021-07-20 14:57:43.230 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 14:57:45.073 [Test worker] LogClass - Test is ended
+[INFO ] 2021-07-20 15:09:57.206 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 15:09:59.798 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 15:10:26.513 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 15:10:37.582 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 15:11:22.997 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 15:11:24.626 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 15:11:26.717 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 15:11:57.320 [Test worker] LogClass - loginTo_Application_with_valid_credentials:take success screenshot
+[INFO ] 2021-07-20 15:12:38.286 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 15:12:54.319 [Test worker] LogClass - Test is ended
+[INFO ] 2021-07-20 15:19:16.549 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 15:19:19.942 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 15:19:40.412 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 15:19:50.968 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 15:20:18.003 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 15:20:22.408 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 15:20:23.188 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 15:21:07.245 [Test worker] LogClass - loginTo_Application_with_valid_credentials:take success screenshot
+[INFO ] 2021-07-20 15:21:23.504 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 15:21:42.724 [Test worker] LogClass - Test is ended
+[INFO ] 2021-07-20 15:33:19.024 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 15:33:36.770 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 15:33:57.298 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 15:34:02.660 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 15:34:26.819 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 15:34:29.134 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 15:34:29.874 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 15:34:59.496 [Test worker] LogClass - loginTo_Application_with_valid_credentials:take success screenshot
+[INFO ] 2021-07-20 15:35:08.425 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 15:35:10.395 [Test worker] LogClass - Test is ended
+[INFO ] 2021-07-20 16:46:37.922 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 16:46:46.317 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 16:47:39.359 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 16:47:54.633 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 16:48:37.698 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 16:48:39.853 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 16:48:43.230 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 16:50:32.222 [Test worker] LogClass - postPage:take failed screenshot 
+[INFO ] 2021-07-20 16:50:44.594 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 16:51:00.267 [Test worker] LogClass - Test is ended
+[INFO ] 2021-07-20 16:52:05.784 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 16:52:06.432 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 16:52:23.464 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 16:52:27.664 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 16:52:56.731 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 16:52:58.429 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 16:53:02.157 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 16:53:56.532 [Test worker] LogClass - postPage:take success screenshot
+[INFO ] 2021-07-20 16:54:13.844 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 16:54:22.611 [Test worker] LogClass - Test is ended
+[INFO ] 2021-07-20 16:59:20.207 [Test worker] LogClass - Test is starting
+[INFO ] 2021-07-20 16:59:23.019 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-07-20 16:59:37.388 [Test worker] LogClass - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-20 16:59:49.965 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-07-20 17:00:17.558 [Test worker] LogClass - Sending email using sendKeys
+[INFO ] 2021-07-20 17:00:18.664 [Test worker] LogClass - sending password using sendKeys
+[INFO ] 2021-07-20 17:00:19.404 [Test worker] LogClass - clicking on signIn for logging into application
+[INFO ] 2021-07-20 17:01:17.566 [Test worker] LogClass - postPage:take success screenshot
+[INFO ] 2021-07-20 17:01:40.423 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-07-20 17:01:44.125 [Test worker] LogClass - Test is ended

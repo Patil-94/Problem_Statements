@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.test.TestOfLinkedin" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-20T11:29:50" hostname="DESKTOP-KFGQFK8" time="81.394">
+  <properties/>
+  <testcase name="postPage" classname="com.bridgelabz.selenium.test.TestOfLinkedin" time="81.394"/>
+  <system-out><![CDATA[[INFO ] 2021-07-20 17:00:17.558 [Test worker] LogClass - %[INFO ] 2021-07-20 17:00:18.664 [Test worker] LogClass - %[INFO ] 2021-07-20 17:00:19.404 [Test worker] LogClass - %Success Test
+[INFO ] 2021-07-20 17:01:17.566 [Test worker] LogClass - %]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
